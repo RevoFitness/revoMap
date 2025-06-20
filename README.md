@@ -1,6 +1,4 @@
 # REVO FITNESS CLIENT SIMPLE MAP
-
-  - This repo has been created to serve client websites that are limited to a requirement of **x1** map location.
   ### Deployment
 1. npm run build to compile the project.
 2. once built convert dist/index.html to twig format (reference whats in the theme as to how it should be set up)
