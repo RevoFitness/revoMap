@@ -1,4 +1,4 @@
-# OKMG CLIENT SIMPLE MAP
+# REVO FITNESS CLIENT SIMPLE MAP
 
   - This repo has been created to serve client websites that are limited to a requirement of **x1** map location.
   ### Deployment
